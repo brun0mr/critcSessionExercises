@@ -10,6 +10,7 @@ int SOMA = 0;
 
 
 int NUM_THREADS_SERVER = 1;
+int NUM_THREADS_CLIENTS = 4;
 
 void server(){
     while(1){
